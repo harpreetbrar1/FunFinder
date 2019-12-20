@@ -1,0 +1,4214 @@
+{
+	"name" : "BUS_STOPS",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94961500000731, 49.1997270004007 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 6",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "55933",
+				"X" : "-122.94961500000731",
+				"Y" : "49.1997270004007"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91123699980507, 49.205830000055855 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ Royal Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52425",
+				"X" : "-122.91123699980507",
+				"Y" : "49.205830000055855"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93413099948843, 49.19154899999464 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Derwent Way",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61727",
+				"X" : "-122.93413099948843",
+				"Y" : "49.19154899999464"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9127850006226, 49.20080700042252 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Unload Only",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61678",
+				"X" : "-122.9127850006226",
+				"Y" : "49.20080700042252"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91220500033575, 49.21488099958695 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 2nd St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52490",
+				"X" : "-122.91220500033575",
+				"Y" : "49.21488099958695"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91028900026089, 49.21336499976018 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 2nd St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52491",
+				"X" : "-122.91028900026089",
+				"Y" : "49.21336499976018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90836000018433, 49.21182999985003 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 2nd St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52492",
+				"X" : "-122.90836000018433",
+				"Y" : "49.21182999985003"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91740000002831, 49.214668000010434 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 4th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52488",
+				"X" : "-122.91740000002831",
+				"Y" : "49.214668000010434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91389999974712, 49.216232000182 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 2nd St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52489",
+				"X" : "-122.91389999974712",
+				"Y" : "49.216232000182"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92649399937496, 49.20974400008889 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 10 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53499",
+				"X" : "-122.92649399937496",
+				"Y" : "49.20974400008889"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93015600001216, 49.207765999705835 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 12 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53498",
+				"X" : "-122.93015600001216",
+				"Y" : "49.207765999705835"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93666799982458, 49.204260999682255 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 16 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52167",
+				"X" : "-122.93666799982458",
+				"Y" : "49.204260999682255"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95333100046192, 49.197949999942814 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Trapp Rd @ Marine Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52164",
+				"X" : "-122.95333100046192",
+				"Y" : "49.197949999942814"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93019600046514, 49.207235999663475 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52169",
+				"X" : "-122.93019600046514",
+				"Y" : "49.207235999663475"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93329600021228, 49.206089000251076 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 14 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52168",
+				"X" : "-122.93329600021228",
+				"Y" : "49.206089000251076"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91257300009087, 49.20140600019338 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station Platform 2",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.91257300009087",
+				"Y" : "49.20140600019338"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9061180000497, 49.20477799982856 ]
+			},
+			"properties" : {
+				"stop_name" : "Columbia Station Platform 2",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.9061180000497",
+				"Y" : "49.20477799982856"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9520479996483, 49.18534399964314 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Boyd St @ Gifford St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59556",
+				"X" : "-122.9520479996483",
+				"Y" : "49.18534399964314"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95282999940758, 49.185125999698194 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Boyd St @ Gifford St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59552",
+				"X" : "-122.95282999940758",
+				"Y" : "49.185125999698194"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91453799962416, 49.21632699996442 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 2nd St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53622",
+				"X" : "-122.91453799962416",
+				"Y" : "49.21632699996442"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.912449999498, 49.21745800028844 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 1st St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53621",
+				"X" : "-122.912449999498",
+				"Y" : "49.21745800028844"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9232640000174, 49.21165099993543 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 8th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53624",
+				"X" : "-122.9232640000174",
+				"Y" : "49.21165099993543"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91805100007012, 49.21443699980309 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 4th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53623",
+				"X" : "-122.91805100007012",
+				"Y" : "49.21443699980309"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9197680005349, 49.21337299997247 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 6th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52487",
+				"X" : "-122.9197680005349",
+				"Y" : "49.21337299997247"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94834500002865, 49.20011199972467 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 1",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58173",
+				"X" : "-122.94834500002865",
+				"Y" : "49.20011199972467"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91525299947442, 49.22199299992956 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ovens Ave @ Colborne St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52482",
+				"X" : "-122.91525299947442",
+				"Y" : "49.22199299992956"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95462599962411, 49.19814700042366 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Marine Dr @ Trapp Rd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52158",
+				"X" : "-122.95462599962411",
+				"Y" : "49.19814700042366"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90625000051871, 49.22080999959866 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 6th Ave @ Glenbrook Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58947",
+				"X" : "-122.90625000051871",
+				"Y" : "49.22080999959866"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9069430001922, 49.21070200033615 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 2nd St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58748",
+				"X" : "-122.9069430001922",
+				"Y" : "49.21070200033615"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91134700000636, 49.21790599997136 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 1st St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53590",
+				"X" : "-122.91134700000636",
+				"Y" : "49.21790599997136"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91369100067341, 49.2166810000782 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 2nd St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53589",
+				"X" : "-122.91369100067341",
+				"Y" : "49.2166810000782"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91295799973612, 49.222005999786525 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53581",
+				"X" : "-122.91295799973612",
+				"Y" : "49.222005999786525"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92722799971448, 49.20949200036762 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 10 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53584",
+				"X" : "-122.92722799971448",
+				"Y" : "49.20949200036762"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93394199980197, 49.20588100000129 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 14 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53586",
+				"X" : "-122.93394199980197",
+				"Y" : "49.20588100000129"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93104799994177, 49.20744300015474 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 12 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53585",
+				"X" : "-122.93104799994177",
+				"Y" : "49.20744300015474"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9403249996363, 49.20243599998027 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 18 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53588",
+				"X" : "-122.9403249996363",
+				"Y" : "49.20243599998027"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93747699982518, 49.20397299991605 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 16 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53587",
+				"X" : "-122.93747699982518",
+				"Y" : "49.20397299991605"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91481900060927, 49.208884999870904 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52440",
+				"X" : "-122.91481900060927",
+				"Y" : "49.208884999870904"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91123799958523, 49.20605299959771 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ Royal Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52438",
+				"X" : "-122.91123799958523",
+				"Y" : "49.20605299959771"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91285899937809, 49.20732300037942 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52439",
+				"X" : "-122.91285899937809",
+				"Y" : "49.20732300037942"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92715599960506, 49.21349299987726 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51417",
+				"X" : "-122.92715599960506",
+				"Y" : "49.21349299987726"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93113499934047, 49.21654900019376 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ 10 Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51416",
+				"X" : "-122.93113499934047",
+				"Y" : "49.21654900019376"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8893110005423, 49.22462099990446 ]
+			},
+			"properties" : {
+				"stop_name" : "Sapperton Station Platform 2",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.8893110005423",
+				"Y" : "49.22462099990446"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92672600033828, 49.20449600019916 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52171",
+				"X" : "-122.92672600033828",
+				"Y" : "49.20449600019916"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92318500029769, 49.201819999716754 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52173",
+				"X" : "-122.92318500029769",
+				"Y" : "49.201819999716754"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94027799936548, 49.207123000115836 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 16 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52237",
+				"X" : "-122.94027799936548",
+				"Y" : "49.207123000115836"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94347299994546, 49.20539900014324 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 18 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52236",
+				"X" : "-122.94347299994546",
+				"Y" : "49.20539900014324"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94570599933667, 49.20419599967611 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 19 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52235",
+				"X" : "-122.94570599933667",
+				"Y" : "49.20419599967611"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9478939999872, 49.203013000423454 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 20 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52234",
+				"X" : "-122.9478939999872",
+				"Y" : "49.203013000423454"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94987799973417, 49.20193800005944 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 21 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52233",
+				"X" : "-122.94987799973417",
+				"Y" : "49.20193800005944"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95179599997391, 49.200901999999424 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 22 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52232",
+				"X" : "-122.95179599997391",
+				"Y" : "49.200901999999424"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95297199955255, 49.200284000170484 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 23 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52231",
+				"X" : "-122.95297199955255",
+				"Y" : "49.200284000170484"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94909699975034, 49.19985700008985 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 4",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52230",
+				"X" : "-122.94909699975034",
+				"Y" : "49.19985700008985"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91623400056413, 49.20022000013055 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Columbia St @ 10 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52176",
+				"X" : "-122.91623400056413",
+				"Y" : "49.20022000013055"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91903600051738, 49.20039599981554 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Columbia St @ Royal Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52177",
+				"X" : "-122.91903600051738",
+				"Y" : "49.20039599981554"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9163559998966, 49.2098810003803 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52422",
+				"X" : "-122.9163559998966",
+				"Y" : "49.2098810003803"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91442499960664, 49.208345000162794 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52423",
+				"X" : "-122.91442499960664",
+				"Y" : "49.208345000162794"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91995900065815, 49.21275000036673 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52420",
+				"X" : "-122.91995900065815",
+				"Y" : "49.21275000036673"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91836499996228, 49.21148199958975 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52421",
+				"X" : "-122.91836499996228",
+				"Y" : "49.21148199958975"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91251399966785, 49.20682999988554 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52424",
+				"X" : "-122.91251399966785",
+				"Y" : "49.20682999988554"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91488499949907, 49.2040500003224 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ Royal Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51425",
+				"X" : "-122.91488499949907",
+				"Y" : "49.2040500003224"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94885300042493, 49.199941000189675 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 3",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53497",
+				"X" : "-122.94885300042493",
+				"Y" : "49.199941000189675"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91660000047403, 49.205415999881005 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51426",
+				"X" : "-122.91660000047403",
+				"Y" : "49.205415999881005"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91853799958145, 49.20695300032572 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51427",
+				"X" : "-122.91853799958145",
+				"Y" : "49.20695300032572"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91875099936479, 49.21201199965362 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52442",
+				"X" : "-122.91875099936479",
+				"Y" : "49.21201199965362"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92457400057602, 49.19998799979762 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Renaissance Square @ Quayside Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61419",
+				"X" : "-122.92457400057602",
+				"Y" : "49.19998799979762"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9039539994189, 49.20813300029362 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Agnes St @ Elliot St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61504",
+				"X" : "-122.9039539994189",
+				"Y" : "49.20813300029362"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92707900033996, 49.214252000226445 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 8th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61736",
+				"X" : "-122.92707900033996",
+				"Y" : "49.214252000226445"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9499010003773, 49.19963299974302 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 7",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "56919",
+				"X" : "-122.9499010003773",
+				"Y" : "49.19963299974302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91496499982006, 49.20388200008501 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ Royal Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51423",
+				"X" : "-122.91496499982006",
+				"Y" : "49.20388200008501"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92533300011351, 49.21207299975594 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51418",
+				"X" : "-122.92533300011351",
+				"Y" : "49.21207299975594"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9035119996837, 49.20822999965938 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Agnes St @ Elliot St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58411",
+				"X" : "-122.9035119996837",
+				"Y" : "49.20822999965938"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94697500001853, 49.18668000036462 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Howes St @ Ewen Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52372",
+				"X" : "-122.94697500001853",
+				"Y" : "49.18668000036462"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94935800023217, 49.199791999614014 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 5",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52373",
+				"X" : "-122.94935800023217",
+				"Y" : "49.199791999614014"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94621799962441, 49.18641400039761 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Howes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52375",
+				"X" : "-122.94621799962441",
+				"Y" : "49.18641400039761"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90669899949737, 49.222954000014695 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Cumberland St @ E 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58740",
+				"X" : "-122.90669899949737",
+				"Y" : "49.222954000014695"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89639199934331, 49.21838700012173 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Richmond St @ Miner St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58742",
+				"X" : "-122.89639199934331",
+				"Y" : "49.21838700012173"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90201599934953, 49.209293999591004 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 1st St @ Agnes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58744",
+				"X" : "-122.90201599934953",
+				"Y" : "49.209293999591004"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94762399937005, 49.18705200040154 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Howes St @ Howes St Ramp",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61612",
+				"X" : "-122.94762399937005",
+				"Y" : "49.18705200040154"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92355800008983, 49.21148499976323 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 8th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61599",
+				"X" : "-122.92355800008983",
+				"Y" : "49.21148499976323"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9176750000498, 49.19905799991502 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Quayside Dr @ Reliance Court",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61938",
+				"X" : "-122.9176750000498",
+				"Y" : "49.19905799991502"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93671300065951, 49.212448999665085 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ London St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52613",
+				"X" : "-122.93671300065951",
+				"Y" : "49.212448999665085"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9024929997496, 49.22738900001579 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 8th Ave @ Chilliwack St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58174",
+				"X" : "-122.9024929997496",
+				"Y" : "49.22738900001579"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89784100013155, 49.22984900013088 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 8th Ave @ Richmond St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53508",
+				"X" : "-122.89784100013155",
+				"Y" : "49.22984900013088"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89589399942288, 49.230861999866164 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 8th Ave @ Buchanan Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53509",
+				"X" : "-122.89589399942288",
+				"Y" : "49.230861999866164"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92095100064623, 49.21755200008321 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 4th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53502",
+				"X" : "-122.92095100064623",
+				"Y" : "49.21755200008321"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91351800025517, 49.221478000413185 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ Park Crescent",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53503",
+				"X" : "-122.91351800025517",
+				"Y" : "49.221478000413185"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90807399955611, 49.22443699992505 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 8th Ave @ Cumberland St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53504",
+				"X" : "-122.90807399955611",
+				"Y" : "49.22443699992505"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90631899973715, 49.22536499977513 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 8th Ave @ York St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53505",
+				"X" : "-122.90631899973715",
+				"Y" : "49.22536499977513"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89213999937087, 49.231543999764135 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Braid St @ E Columbia St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53510",
+				"X" : "-122.89213999937087",
+				"Y" : "49.231543999764135"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88969199948515, 49.231518000061726 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Braid St @ Fader St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53511",
+				"X" : "-122.88969199948515",
+				"Y" : "49.231518000061726"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89611999964852, 49.21272699964712 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E Columbia St @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53102",
+				"X" : "-122.89611999964852",
+				"Y" : "49.21272699964712"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89282000000597, 49.23113199956271 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ Braid St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53100",
+				"X" : "-122.89282000000597",
+				"Y" : "49.23113199956271"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89271600060732, 49.228132999651905 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound E Columbia St @ Sherbrooke St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53106",
+				"X" : "-122.89271600060732",
+				"Y" : "49.228132999651905"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94727200043842, 49.18793200024735 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Hwy 91A Onramp @ Howes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "56029",
+				"X" : "-122.94727200043842",
+				"Y" : "49.18793200024735"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9494529996232, 49.18823199967817 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Hwy 91A Onramp @ Howes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "55934",
+				"X" : "-122.9494529996232",
+				"Y" : "49.18823199967817"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92257600029593, 49.19990599977736 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Quayside Dr @ Laguna Court",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52335",
+				"X" : "-122.92257600029593",
+				"Y" : "49.19990599977736"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91808000061329, 49.19896299969686 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Quayside Dr @ Reliance Court",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52336",
+				"X" : "-122.91808000061329",
+				"Y" : "49.19896299969686"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90221599964255, 49.206351000082975 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Columbia St @ 200 Block",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52330",
+				"X" : "-122.90221599964255",
+				"Y" : "49.206351000082975"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89655499986156, 49.21813199967878 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Richmond St @ Miner St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52328",
+				"X" : "-122.89655499986156",
+				"Y" : "49.21813199967878"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90579599983721, 49.20443400034261 ]
+			},
+			"properties" : {
+				"stop_name" : "Columbia Station @ Bay 1",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52331",
+				"X" : "-122.90579599983721",
+				"Y" : "49.20443400034261"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90836300066718, 49.203027999780694 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Columbia St @ 6th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52332",
+				"X" : "-122.90836300066718",
+				"Y" : "49.203027999780694"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89982700020815, 49.21421700012035 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Ross Dr @ 200 Block",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61251",
+				"X" : "-122.89982700020815",
+				"Y" : "49.21421700012035"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8996560005209, 49.21395799983114 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Ross Dr @ 200 Block",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61250",
+				"X" : "-122.8996560005209",
+				"Y" : "49.21395799983114"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93754499983642, 49.213305999640276 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 10 Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52625",
+				"X" : "-122.93754499983642",
+				"Y" : "49.213305999640276"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89475700051727, 49.22053799961616 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Cumberland St  @ Sapper St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "60167",
+				"X" : "-122.89475700051727",
+				"Y" : "49.22053799961616"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88255600022767, 49.23314499969777 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station @ Bay 5",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58085",
+				"X" : "-122.88255600022767",
+				"Y" : "49.23314499969777"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88250100008324, 49.23296799992141 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station @ Bay 6",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58086",
+				"X" : "-122.88250100008324",
+				"Y" : "49.23296799992141"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88283100013973, 49.233235999681156 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station Platform 1",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.88283100013973",
+				"Y" : "49.233235999681156"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88313700037683, 49.23285499991062 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station @ Bay 1",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58079",
+				"X" : "-122.88313700037683",
+				"Y" : "49.23285499991062"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8827179993356, 49.23323600015327 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station Platform 2",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.8827179993356",
+				"Y" : "49.23323600015327"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88942400043734, 49.22470000021718 ]
+			},
+			"properties" : {
+				"stop_name" : "Sapperton Station Platform 1",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.88942400043734",
+				"Y" : "49.22470000021718"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94098499968148, 49.206854000353786 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 16 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52308",
+				"X" : "-122.94098499968148",
+				"Y" : "49.206854000353786"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94442700007016, 49.20502300006028 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 18 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52309",
+				"X" : "-122.94442700007016",
+				"Y" : "49.20502300006028"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94646600039287, 49.20392899978836 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 19 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52310",
+				"X" : "-122.94646600039287",
+				"Y" : "49.20392899978836"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94876099966937, 49.20269400029293 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 20 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52311",
+				"X" : "-122.94876099966937",
+				"Y" : "49.20269400029293"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90723799974771, 49.203433999655154 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Columbia St @ 6th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52316",
+				"X" : "-122.90723799974771",
+				"Y" : "49.203433999655154"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90491699958945, 49.20466199993899 ]
+			},
+			"properties" : {
+				"stop_name" : "Columbia Station @ Bay 2",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52317",
+				"X" : "-122.90491699958945",
+				"Y" : "49.20466199993899"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9081679998053, 49.20360100022221 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ Columbia St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58103",
+				"X" : "-122.9081679998053",
+				"Y" : "49.20360100022221"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93394700051023, 49.21024099997219 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52614",
+				"X" : "-122.93394700051023",
+				"Y" : "49.21024099997219"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88264199962732, 49.23338100022441 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station @ Bay 4",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58084",
+				"X" : "-122.88264199962732",
+				"Y" : "49.23338100022441"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9101410004371, 49.20496100035708 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ Agnes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59881",
+				"X" : "-122.9101410004371",
+				"Y" : "49.20496100035708"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94894000057899, 49.200020999737426 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd Street Station Platform 2",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.94894000057899",
+				"Y" : "49.200020999737426"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92850000055272, 49.20590900015979 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52170",
+				"X" : "-122.92850000055272",
+				"Y" : "49.20590900015979"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90204000042866, 49.20945499966734 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 1st St @ Agnes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58412",
+				"X" : "-122.90204000042866",
+				"Y" : "49.20945499966734"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90163200053856, 49.216676000057866 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Queens Park Care Centre @ Blackberry Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58983",
+				"X" : "-122.90163200053856",
+				"Y" : "49.216676000057866"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89572000031802, 49.21605900024913 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Jamieson Court @ Richmond St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58743",
+				"X" : "-122.89572000031802",
+				"Y" : "49.21605900024913"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91505900040822, 49.221940999707 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ovens Ave @ Colborne St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61489",
+				"X" : "-122.91505900040822",
+				"Y" : "49.221940999707"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92064699955594, 49.19924399983276 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Quayside Dr @ 1200 Block",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59008",
+				"X" : "-122.92064699955594",
+				"Y" : "49.19924399983276"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89292299936969, 49.22756899988345 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ Sherbrooke St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53101",
+				"X" : "-122.89292299936969",
+				"Y" : "49.22756899988345"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92661299938631, 49.214693000129834 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ New Westminster Secondary",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58158",
+				"X" : "-122.92661299938631",
+				"Y" : "49.214693000129834"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9217050001668, 49.217284000086316 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 4th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52484",
+				"X" : "-122.9217050001668",
+				"Y" : "49.217284000086316"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9182269993452, 49.2191510002848 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 2nd St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52483",
+				"X" : "-122.9182269993452",
+				"Y" : "49.2191510002848"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91719399994284, 49.219577000210414 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 2nd St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52481",
+				"X" : "-122.91719399994284",
+				"Y" : "49.219577000210414"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91250200041522, 49.21538100006252 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 2nd St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52478",
+				"X" : "-122.91250200041522",
+				"Y" : "49.21538100006252"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91052699956529, 49.21381700036134 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 2nd St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52477",
+				"X" : "-122.91052699956529",
+				"Y" : "49.21381700036134"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90862600036421, 49.21229799963384 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 2nd St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52476",
+				"X" : "-122.90862600036421",
+				"Y" : "49.21229799963384"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91679999939913, 49.21045399980599 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52441",
+				"X" : "-122.91679999939913",
+				"Y" : "49.21045399980599"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9089839999115, 49.2193480002698 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53620",
+				"X" : "-122.9089839999115",
+				"Y" : "49.2193480002698"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89871500061288, 49.22533900019684 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Richmond St @ Shiles St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53615",
+				"X" : "-122.89871500061288",
+				"Y" : "49.22533900019684"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89879899987632, 49.223040000394995 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Richmond St @ Alberta St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53616",
+				"X" : "-122.89879899987632",
+				"Y" : "49.223040000394995"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89996899970664, 49.22061399999035 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Cumberland St @ Glenbrook Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53617",
+				"X" : "-122.89996899970664",
+				"Y" : "49.22061399999035"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89338400026769, 49.226514000350434 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Hospital St @ E Columbia St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53613",
+				"X" : "-122.89338400026769",
+				"Y" : "49.226514000350434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89781299953827, 49.226558999957156 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Hospital St @ Blair Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53614",
+				"X" : "-122.89781299953827",
+				"Y" : "49.226558999957156"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88280000059994, 49.23324400009778 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.88280000059994",
+				"Y" : "49.23324400009778"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90617500044513, 49.20483000028411 ]
+			},
+			"properties" : {
+				"stop_name" : "Columbia Station",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.90617500044513",
+				"Y" : "49.20483000028411"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88939300010858, 49.22466199971721 ]
+			},
+			"properties" : {
+				"stop_name" : "Sapperton Station",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.88939300010858",
+				"Y" : "49.22466199971721"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94898000037365, 49.20005900008323 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd Street Station",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.94898000037365",
+				"Y" : "49.20005900008323"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91261399992985, 49.20143700024762 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.91261399992985",
+				"Y" : "49.20143700024762"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9126289995229, 49.20145899971242 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station Platform 1",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.9126289995229",
+				"Y" : "49.20145899971242"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94897099959596, 49.2000830000749 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd Street Station Platform 1",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.94897099959596",
+				"Y" : "49.2000830000749"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90618700042462, 49.204859000075714 ]
+			},
+			"properties" : {
+				"stop_name" : "Columbia Station Platform 1",
+				"stop_desc" : "",
+				"zone_id" : "ZN 2",
+				"wheelchair_boarding" : null,
+				"stop_code" : "",
+				"X" : "-122.90618700042462",
+				"Y" : "49.204859000075714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93441600035115, 49.21081900035979 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52623",
+				"X" : "-122.93441600035115",
+				"Y" : "49.21081900035979"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93481099944549, 49.19117400040477 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Johnston St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52378",
+				"X" : "-122.93481099944549",
+				"Y" : "49.19117400040477"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94034200057325, 49.20228600043646 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 18 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59549",
+				"X" : "-122.94034200057325",
+				"Y" : "49.20228600043646"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88683099941807, 49.2316490002963 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Braid St @ Rousseau St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53572",
+				"X" : "-122.88683099941807",
+				"Y" : "49.2316490002963"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89059999959336, 49.231654000153036 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Braid St @ Fader St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53573",
+				"X" : "-122.89059999959336",
+				"Y" : "49.231654000153036"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89381400050307, 49.23179799978164 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Braid St @ E Columbia St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53574",
+				"X" : "-122.89381400050307",
+				"Y" : "49.23179799978164"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89659200045571, 49.23064699967816 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 8th Ave @ Buchanan Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53575",
+				"X" : "-122.89659200045571",
+				"Y" : "49.23064699967816"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89926200065898, 49.22923599957914 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 8th Ave @ Richmond St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53576",
+				"X" : "-122.89926200065898",
+				"Y" : "49.22923599957914"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90159700063616, 49.228005000373265 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 8th Ave @ Cherry St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53577",
+				"X" : "-122.90159700063616",
+				"Y" : "49.228005000373265"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90495099931353, 49.22622900005044 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 8th Ave @ William St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53578",
+				"X" : "-122.90495099931353",
+				"Y" : "49.22622900005044"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90699699951558, 49.225150000373404 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 8th Ave @ York St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53579",
+				"X" : "-122.90699699951558",
+				"Y" : "49.225150000373404"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90897999977089, 49.224097000026354 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E 8th Ave @ Cumberland St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53580",
+				"X" : "-122.90897999977089",
+				"Y" : "49.224097000026354"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89843500042846, 49.21270100028157 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E Royal Ave @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61676",
+				"X" : "-122.89843500042846",
+				"Y" : "49.21270100028157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89852199955018, 49.21274799975205 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound E Royal Ave @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61675",
+				"X" : "-122.89852199955018",
+				"Y" : "49.21274799975205"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94971100048478, 49.199857000095804 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd Street Station @ Unloading Only",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58322",
+				"X" : "-122.94971100048478",
+				"Y" : "49.199857000095804"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8983699999314, 49.22048699965284 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Cumberland St @ Richmond St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "60079",
+				"X" : "-122.8983699999314",
+				"Y" : "49.22048699965284"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89395699978287, 49.226413000026334 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Hospital St @ E Columbia St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53597",
+				"X" : "-122.89395699978287",
+				"Y" : "49.226413000026334"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89861599967152, 49.22402900012828 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Richmond St @ Alberta St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53595",
+				"X" : "-122.89861599967152",
+				"Y" : "49.22402900012828"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8980059998315, 49.22646099981215 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Hospital St @ Richmond St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53596",
+				"X" : "-122.8980059998315",
+				"Y" : "49.22646099981215"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90574099941851, 49.22092600039465 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 6th Ave @ Glenbrook Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53593",
+				"X" : "-122.90574099941851",
+				"Y" : "49.22092600039465"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89868700068483, 49.220933000185596 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound Richmond St @ Cumberland St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53594",
+				"X" : "-122.89868700068483",
+				"Y" : "49.220933000185596"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90786299976111, 49.219777999599806 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 6th Ave @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53592",
+				"X" : "-122.90786299976111",
+				"Y" : "49.219777999599806"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94079100009016, 49.1885800003624 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ McGillivray Place",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59118",
+				"X" : "-122.94079100009016",
+				"Y" : "49.1885800003624"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90559700007142, 49.20492999960121 ]
+			},
+			"properties" : {
+				"stop_name" : "Columbia Station @ Bay 3",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52431",
+				"X" : "-122.90559700007142",
+				"Y" : "49.20492999960121"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91619299947098, 49.20486899994682 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51422",
+				"X" : "-122.91619299947098",
+				"Y" : "49.20486899994682"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92002400010199, 49.207914999631214 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51420",
+				"X" : "-122.92002400010199",
+				"Y" : "49.207914999631214"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91819900036468, 49.20646499991765 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51421",
+				"X" : "-122.91819900036468",
+				"Y" : "49.20646499991765"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92202600044513, 49.20950600005996 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 8th St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51419",
+				"X" : "-122.92202600044513",
+				"Y" : "49.20950600005996"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91433900059306, 49.201085000138114 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 10",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61657",
+				"X" : "-122.91433900059306",
+				"Y" : "49.201085000138114"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93062099994219, 49.21642200041797 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 10 Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51433",
+				"X" : "-122.93062099994219",
+				"Y" : "49.21642200041797"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92787399966483, 49.21433100029444 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51432",
+				"X" : "-122.92787399966483",
+				"Y" : "49.21433100029444"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92243600061171, 49.21006100029523 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51429",
+				"X" : "-122.92243600061171",
+				"Y" : "49.21006100029523"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92004399937657, 49.208150000187544 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51428",
+				"X" : "-122.92004399937657",
+				"Y" : "49.208150000187544"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9486089999628, 49.20002000018258 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 2",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52165",
+				"X" : "-122.9486089999628",
+				"Y" : "49.20002000018258"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93007100035446, 49.21264099962774 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 10 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52240",
+				"X" : "-122.93007100035446",
+				"Y" : "49.21264099962774"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92342599947612, 49.2114060002812 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 6th Ave @ 8th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52241",
+				"X" : "-122.92342599947612",
+				"Y" : "49.2114060002812"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93687399971888, 49.208969000007805 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 14 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52238",
+				"X" : "-122.93687399971888",
+				"Y" : "49.208969000007805"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9337139999784, 49.21066000013176 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 12 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52239",
+				"X" : "-122.9337139999784",
+				"Y" : "49.21066000013176"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92426299991557, 49.21636900040177 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52244",
+				"X" : "-122.92426299991557",
+				"Y" : "49.21636900040177"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92075099934588, 49.21361199960904 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52242",
+				"X" : "-122.92075099934588",
+				"Y" : "49.21361199960904"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92213300026333, 49.21469999958171 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 6th St @ 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52243",
+				"X" : "-122.92213300026333",
+				"Y" : "49.21469999958171"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95523599935669, 49.18262699978039 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Hume St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "56911",
+				"X" : "-122.95523599935669",
+				"Y" : "49.18262699978039"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95187299951859, 49.18400099998227 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Gifford St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "56913",
+				"X" : "-122.95187299951859",
+				"Y" : "49.18400099998227"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90702000052772, 49.20632299964235 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Agnes St @ 4th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52427",
+				"X" : "-122.90702000052772",
+				"Y" : "49.20632299964235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90537099959289, 49.2072150002378 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Agnes St @ Merrivale St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52428",
+				"X" : "-122.90537099959289",
+				"Y" : "49.2072150002378"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94629899962618, 49.19996600022183 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Marine Way @ 20 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52182",
+				"X" : "-122.94629899962618",
+				"Y" : "49.19996600022183"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95016700023967, 49.19952200031663 ]
+			},
+			"properties" : {
+				"stop_name" : "22nd St Station @ Bay 8",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52183",
+				"X" : "-122.95016700023967",
+				"Y" : "49.19952200031663"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95360999958478, 49.19819499966841 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Marine Dr @ 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52184",
+				"X" : "-122.95360999958478",
+				"Y" : "49.19819499966841"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95371700060494, 49.19784600040394 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Trapp Rd @ Marine Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52187",
+				"X" : "-122.95371700060494",
+				"Y" : "49.19784600040394"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95250799949093, 49.20066600004969 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 22 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59127",
+				"X" : "-122.95250799949093",
+				"Y" : "49.20066600004969"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8926940004321, 49.235385999739115 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ Holmes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53217",
+				"X" : "-122.8926940004321",
+				"Y" : "49.235385999739115"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89297599935148, 49.22530100017963 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ Keary St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53218",
+				"X" : "-122.89297599935148",
+				"Y" : "49.22530100017963"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89303200064671, 49.22332499957187 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ Alberta St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53219",
+				"X" : "-122.89303200064671",
+				"Y" : "49.22332499957187"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89407799956763, 49.21618499993944 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ Richmond St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53221",
+				"X" : "-122.89407799956763",
+				"Y" : "49.21618499993944"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92428600007233, 49.21590699995213 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 6th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52485",
+				"X" : "-122.92428600007233",
+				"Y" : "49.21590699995213"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9234429996373, 49.21620500033546 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound 8th Ave @ 6th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61737",
+				"X" : "-122.9234429996373",
+				"Y" : "49.21620500033546"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94864100032893, 49.18535799958932 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Jardine St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "56914",
+				"X" : "-122.94864100032893",
+				"Y" : "49.18535799958932"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92726900042095, 49.194613999650784 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Furness St @ Ewen Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52356",
+				"X" : "-122.92726900042095",
+				"Y" : "49.194613999650784"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93611600057051, 49.19070800032226 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Fenton St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52358",
+				"X" : "-122.93611600057051",
+				"Y" : "49.19070800032226"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94161599941772, 49.188467000140804 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ McGillivray Place",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52361",
+				"X" : "-122.94161599941772",
+				"Y" : "49.188467000140804"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93991899977189, 49.189177999772724 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Wood St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52360",
+				"X" : "-122.93991899977189",
+				"Y" : "49.189177999772724"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95031200016355, 49.18480900005804 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Jardine St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52363",
+				"X" : "-122.95031200016355",
+				"Y" : "49.18480900005804"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9472589999444, 49.18608700025323 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Howes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52362",
+				"X" : "-122.9472589999444",
+				"Y" : "49.18608700025323"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95614099946772, 49.18236399969727 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Hume St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52365",
+				"X" : "-122.95614099946772",
+				"Y" : "49.18236399969727"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9522560001999, 49.184020999945034 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Ewen Ave @ Gifford St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52364",
+				"X" : "-122.9522560001999",
+				"Y" : "49.184020999945034"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92089499931309, 49.21292700041353 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 6th Ave @ 6th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52303",
+				"X" : "-122.92089499931309",
+				"Y" : "49.21292700041353"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90337499969611, 49.209727000214265 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound Royal Ave @ 1st St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52472",
+				"X" : "-122.90337499969611",
+				"Y" : "49.209727000214265"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92586100033934, 49.21278699967543 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51431",
+				"X" : "-122.92586100033934",
+				"Y" : "49.21278699967543"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92429699973185, 49.211540999968754 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 8th St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "51430",
+				"X" : "-122.92429699973185",
+				"Y" : "49.211540999968754"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93629199950283, 49.21230800012365 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ Dublin St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52624",
+				"X" : "-122.93629199950283",
+				"Y" : "49.21230800012365"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89261699951857, 49.23754399984546 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound E Columbia St @ 600 Block",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "59345",
+				"X" : "-122.89261699951857",
+				"Y" : "49.23754399984546"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93206300012724, 49.208747999831495 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 12 St @ 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52615",
+				"X" : "-122.93206300012724",
+				"Y" : "49.208747999831495"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92305899942228, 49.20192199993017 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52617",
+				"X" : "-122.92305899942228",
+				"Y" : "49.20192199993017"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92515699936976, 49.203450999891196 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 3rd Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52618",
+				"X" : "-122.92515699936976",
+				"Y" : "49.203450999891196"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92700800058849, 49.20492099964038 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 4th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52619",
+				"X" : "-122.92700800058849",
+				"Y" : "49.20492099964038"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92895499965977, 49.206465000321586 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 5th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52620",
+				"X" : "-122.92895499965977",
+				"Y" : "49.206465000321586"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93143799939519, 49.208439000313454 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 6th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52621",
+				"X" : "-122.93143799939519",
+				"Y" : "49.208439000313454"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93238599949247, 49.209188999951415 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 12 St @ 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52622",
+				"X" : "-122.93238599949247",
+				"Y" : "49.209188999951415"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89544299943924, 49.22043400035515 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Cumberland St @ Miner St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "60166",
+				"X" : "-122.89544299943924",
+				"Y" : "49.22043400035515"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89260800064801, 49.23190499982018 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound E Columbia St @ Braid St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53107",
+				"X" : "-122.89260800064801",
+				"Y" : "49.23190499982018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89281299981069, 49.223415999601244 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound E Columbia St @ Alberta St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53110",
+				"X" : "-122.89281299981069",
+				"Y" : "49.223415999601244"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89276100055122, 49.226165999585135 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound E Columbia St @ Keary St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53111",
+				"X" : "-122.89276100055122",
+				"Y" : "49.226165999585135"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8926529999606, 49.23045799987527 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound E Columbia St @ Cedar St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61533",
+				"X" : "-122.8926529999606",
+				"Y" : "49.23045799987527"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89245899957352, 49.2361269996781 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound E Columbia St @ Holmes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "53113",
+				"X" : "-122.89245899957352",
+				"Y" : "49.2361269996781"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90807300005923, 49.223886000337956 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Cumberland St @ E 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52323",
+				"X" : "-122.90807300005923",
+				"Y" : "49.223886000337956"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9109379997016, 49.22285499966648 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound E 8th Ave @ McBride Blvd",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52322",
+				"X" : "-122.9109379997016",
+				"Y" : "49.22285499966648"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90309599960295, 49.22079199958629 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Cumberland St @ Beth St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52325",
+				"X" : "-122.90309599960295",
+				"Y" : "49.22079199958629"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90568199964417, 49.22195700014818 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Cumberland St @ E 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52324",
+				"X" : "-122.90568199964417",
+				"Y" : "49.22195700014818"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9025720000246, 49.205925999743215 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Columbia St @ 200 Block",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52318",
+				"X" : "-122.9025720000246",
+				"Y" : "49.205925999743215"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8984939997942, 49.21980400039417 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound Richmond St @ Seymour Court",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52327",
+				"X" : "-122.8984939997942",
+				"Y" : "49.21980400039417"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89974599943007, 49.22050700039074 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Cumberland St @ Glenbrook Dr",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52326",
+				"X" : "-122.89974599943007",
+				"Y" : "49.22050700039074"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91199700039293, 49.20147200027324 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 9",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61656",
+				"X" : "-122.91199700039293",
+				"Y" : "49.20147200027324"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91311599950566, 49.20105999991579 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 5",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61652",
+				"X" : "-122.91311599950566",
+				"Y" : "49.20105999991579"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91285399983566, 49.20087999991618 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 4",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61651",
+				"X" : "-122.91285399983566",
+				"Y" : "49.20087999991618"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91209499977207, 49.20103699998561 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 2",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61649",
+				"X" : "-122.91209499977207",
+				"Y" : "49.20103699998561"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91343000036073, 49.20157099977062 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 8",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61655",
+				"X" : "-122.91343000036073",
+				"Y" : "49.20157099977062"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91353499980713, 49.20137899992839 ]
+			},
+			"properties" : {
+				"stop_name" : "New Westminster Station @ Bay 7",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "61654",
+				"X" : "-122.91353499980713",
+				"Y" : "49.20137899992839"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90700200044168, 49.20586199964693 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 4th St @ Agnes St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58747",
+				"X" : "-122.90700200044168",
+				"Y" : "49.20586199964693"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94392299970544, 49.18736399982369 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Lawrence St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52376",
+				"X" : "-122.94392299970544",
+				"Y" : "49.18736399982369"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93863999976543, 49.18955500038662 ]
+			},
+			"properties" : {
+				"stop_name" : "Eastbound Ewen Ave @ Wood St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52377",
+				"X" : "-122.93863999976543",
+				"Y" : "49.18955500038662"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88302400011652, 49.233210000192365 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station @ Bay 3",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58083",
+				"X" : "-122.88302400011652",
+				"Y" : "49.233210000192365"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92352100004352, 49.215580999988056 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 8th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52301",
+				"X" : "-122.92352100004352",
+				"Y" : "49.215580999988056"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92733500000418, 49.21861699995601 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 10 Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52299",
+				"X" : "-122.92733500000418",
+				"Y" : "49.21861699995601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93093600012409, 49.21230600043501 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 10 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52305",
+				"X" : "-122.93093600012409",
+				"Y" : "49.21230600043501"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92809000012014, 49.2138320002459 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 8th St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52304",
+				"X" : "-122.92809000012014",
+				"Y" : "49.2138320002459"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9218489997103, 49.2142599996717 ]
+			},
+			"properties" : {
+				"stop_name" : "Southbound 6th St @ 7th Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52302",
+				"X" : "-122.9218489997103",
+				"Y" : "49.2142599996717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9376129996575, 49.20869699984038 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 14 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52307",
+				"X" : "-122.9376129996575",
+				"Y" : "49.20869699984038"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93404099955514, 49.210641000373876 ]
+			},
+			"properties" : {
+				"stop_name" : "Westbound 8th Ave @ 12 St",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52306",
+				"X" : "-122.93404099955514",
+				"Y" : "49.210641000373876"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90660400019233, 49.210697999981946 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 2nd St @ Queens Ave",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52475",
+				"X" : "-122.90660400019233",
+				"Y" : "49.210697999981946"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90537400060857, 49.20970999979861 ]
+			},
+			"properties" : {
+				"stop_name" : "Northbound 2nd St @ Clinton Place",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "52474",
+				"X" : "-122.90537400060857",
+				"Y" : "49.20970999979861"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88308000017385, 49.23302999978071 ]
+			},
+			"properties" : {
+				"stop_name" : "Braid Station @ Bay 2",
+				"stop_desc" : "",
+				"zone_id" : "BUS ZN",
+				"wheelchair_boarding" : null,
+				"stop_code" : "58082",
+				"X" : "-122.88308000017385",
+				"Y" : "49.23302999978071"
+			}
+		}
+	]
+}

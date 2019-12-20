@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fun Finder</string>
+    <string name="title_activity_maps">Fun Finder</string>
+    <string name="bus_number">Enter 5 digit Bus Stop Number</string>
+    <string name="enter">Enter Bus Stop Number Here</string>
+    <string name="search">Search</string>
+    <string name="wait">Bus Number \nWait Time</string>
+    <array name="waitPlaceholder">
+        <item>Wait1</item>
+        <item>Wait2</item>
+    </array>
+</resources>

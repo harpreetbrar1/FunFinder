@@ -1,0 +1,702 @@
+{
+  "name" : "PUBLIC_ART",
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.92249687290818, 49.211470718763515 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "716 Sixth Avenue",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3M 2B3",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Alphabet Ball",
+        "Descriptn" : "",
+        "id" : "235",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Alphabet Ball",
+        "X" : "-122.92249687290818",
+        "Y" : "49.211470718763515"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.9272682821694, 49.21180394329954 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "701 Tenth Street",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3M 2S2",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Kiwanis Mosaic",
+        "Descriptn" : "The Kiwanis mosaic, built in 2011 by Liz Calvin, appears outside of the Moody Park Outdoor Pool. The \"K\" on the mosaic is reminiscent of the letter that appeared on the front of the old Kiwanis Pool, which served the community from 1948 to 2006.",
+        "id" : "326",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Kiwanis mosaic, built in 2011 by Liz Calvin, appears outside of the Moody Park Outdoor Pool. The \"K\" on the mosaic is reminiscent of the letter that appeared on the front of the old Kiwanis Pool, which served the community from 1948 to 2006.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Kiwanis Mosaic",
+        "X" : "-122.9272682821694",
+        "Y" : "49.21180394329954"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.9272682821694, 49.21180394329954 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "701 Tenth Street",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3M 2S2",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Kiwanis Mosaic",
+        "Descriptn" : "The Kiwanis mosaic, built in 2011 by Liz Calvin, appears outside of the Moody Park Outdoor Pool. The \"K\" on the mosaic is reminiscent of the letter that appeared on the front of the old Kiwanis Pool, which served the community from 1948 to 2006.",
+        "id" : "327",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Kiwanis Mosaic",
+        "X" : "-122.9272682821694",
+        "Y" : "49.21180394329954"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.88552600362625, 49.22915348409071 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "425 Brunette Avenue",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3L 4E8",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Pump House Mural",
+        "Descriptn" : "\"Puzzled,\" (2013) by artist Steve Hornung brightens the side of an otherwise drab pump house. The mural features a boy with a slingshot, three moose, and interlocking puzzle pieces.",
+        "id" : "329",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "\"Puzzled,\" (2013) by artist Steve Hornung brightens the side of an otherwise drab pump house. The mural features a boy with a slingshot, three moose, and interlocking puzzle pieces.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Pump House Mural",
+        "X" : "-122.88552600362625",
+        "Y" : "49.22915348409071"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.94066447710935, 49.18618622491609 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "833 Salter Street",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3M 6G8",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "The YAI Project (Mural)",
+        "Descriptn" : "The YAI project is a mural initiated by Queensborough youth.",
+        "id" : "337",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The YAI project is a mural initiated by Queensborough youth.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "The YAI Project (Mural)",
+        "X" : "-122.94066447710935",
+        "Y" : "49.18618622491609"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91038920809117, 49.20722247460557 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "511 Royal Avenue",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3L 1H9",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Cenotaph",
+        "Descriptn" : "The Cenotaph (or War Memorial) was created for Armistice Day, 1922, to commemorate soldiers who gave their lives in the service of Canada. The clay sculpture for the monument was made by Major George Patterson, M.C.; the plaster cast was made by Vancouver sculptor A. Fabri; and the cast was shipped to Seattle to be cast in bronze (there were no local facilities for this).",
+        "id" : "338",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Cenotaph (or War Memorial) was created for Armistice Day, 1922, to commemorate soldiers who gave their lives in the service of Canada. The clay sculpture for the monument was made by Major George Patterson, M.C.; the plaster cast was made by Vancouver sculptor A. Fabri.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Cenotaph",
+        "X" : "-122.91038920809117",
+        "Y" : "49.20722247460557"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.92249687290818, 49.211470718763515 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "716 Sxith Avenue",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3M 2B3",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Alpha Ball and Cast Books",
+        "Descriptn" : "The Alpha Ball and Cast Books were installed in 2002 by Tony Bloom and Richard Findlay.",
+        "id" : "344",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Alpha Ball and Cast Books were installed in 2002 by Tony Bloom and Richard Findlay.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Alpha Ball and Cast Books",
+        "X" : "-122.92249687290818",
+        "Y" : "49.211470718763515"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.8929741899815, 49.228438101145656 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Columbia Street Mosaics",
+        "Descriptn" : "The Columbia Street mosaics and panels were commissioned from Bruce Walther and Liz Calvin in 2012. They depict a variety of New Westminster's related scenes. Individual pieces are titled King Neptune, Transportation, Working Waterfront, Gold Rush, Chinese Benevolent Association, Golden Mile, Entertainment District, Chinese Settlement, and Great Fire.",
+        "id" : "321",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Columbia Street mosaics and panels were commissioned from Bruce Walther and Liz Calvin in 2012. They depict a variety of New Westminster's related scenes.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Columbia Street Mosaics",
+        "X" : "-122.8929741899815",
+        "Y" : "49.228438101145656"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.89277690891615, 49.224123431369826 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Columbia at Nelson's Ct",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Brewery District Mosaic",
+        "Descriptn" : "The Brewery District mosaic was commissioned from Bruce Walther in 2011.",
+        "id" : "322",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Brewery District mosaic was commissioned from Bruce Walther in 2011.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Brewery District Mosaic",
+        "X" : "-122.89277690891615",
+        "Y" : "49.224123431369826"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.93381336183074, 49.2101161606255 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Twelfth Street between Tenth and Sixth",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Twelfth Street Mosaics",
+        "Descriptn" : "The Twelfth Street mosaics were created by Bruce Walther and Ann Wilson. These first mosaics in the city are the result of a community project initiated by resident Mary Wilson.",
+        "id" : "323",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Twelfth Street mosaics were created by Bruce Walther and Ann Wilson. These first mosaics in the city are the result of a community project initiated by resident Mary Wilson.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Twelfth Street Mosaics",
+        "X" : "-122.93381336183074",
+        "Y" : "49.2101161606255"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.89292471801701, 49.22896134469309 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "East Columbia between Sherbrooke and Braid",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Sapperton Mosaics",
+        "Descriptn" : "These four mosaics were created in 2011 by Bruce Walther and Ann Wilson. They feature Colonel Moody and the British Sappers; the Sapperton Theatre and Bowling Alley; the Fraser River and Patullo Bridge; and Cap's Bicycles and Cap Hobbies.",
+        "id" : "325",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "These four mosaics were created in 2011 by Bruce Walther and Ann Wilson. They feature Colonel Moody and the British Sappers; the Sapperton Theatre and Bowling Alley; the Fraser River and Patullo Bridge; and Cap's Bicycles and Cap Hobbies.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Sapperton Mosaics",
+        "X" : "-122.89292471801701",
+        "Y" : "49.22896134469309"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91062626344035, 49.20031055001178 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "on the Quay",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Tin Soldier",
+        "Descriptn" : "In 2011, the City of New Westminster purchased the World's Tallest Tin Soldier from the Simon Fraser Society for Community Living. It represents a Sergeant Major of the Royal Engineers Columbia Detachment. It was designed to be a special friend to all children and remind them to open their hearts and help others less fortunate.",
+        "id" : "328",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "In 2011, the City of New Westminster purchased the World's Tallest Tin Soldier from the Simon Fraser Society for Community Living. It represents a Sergeant Major of the Royal Engineers Columbia Detachment. It was designed to be a special friend to all children and remind them to open their hearts and help others less fortunate.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Tin Soldier",
+        "X" : "-122.91062626344035",
+        "Y" : "49.20031055001178"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91458120375403, 49.20401072206835 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Royal @ Eighth",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Puddle Jumper",
+        "Descriptn" : "\"Puddle Jumper\" is a 2008 sculpture by Holly Young. It depicts a young boy in a raincoat preparing to jump into a puddle.",
+        "id" : "330",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "\"Puddle Jumper\" is a 2008 sculpture by Holly Young. It depicts a young boy in a raincoat preparing to jump into a puddle.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Puddle Jumper",
+        "X" : "-122.91458120375403",
+        "Y" : "49.20401072206835"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.8968172926938, 49.216474016783316 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Hyack Square",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Ab oVo",
+        "Descriptn" : "Sculpture made in 2009 by Carlos Basanta (sculpter), Davide Pan (sculpter assistant), Darren Joseph (QayQayt graphic artist) and Ray Natraoro (QayQayt painter).",
+        "id" : "334",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "Sculpture made in 2009 by Carlos Basanta (sculpter), Davide Pan (sculpter assistant), Darren Joseph (QayQayt graphic artist) and Ray Natraoro (QayQayt painter).",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Ab oVo",
+        "X" : "-122.8968172926938",
+        "Y" : "49.216474016783316"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.92470029099881, 49.19982290052296 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Quayside Drive, Renaissance Square",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Diver Inverse",
+        "Descriptn" : "Diver Inverse is a developer-initiated public art project by sculptor David Robinson. It depicts a life-size diving figure on a three-sided, 16-foot-tall concrete plinth in Renaissance Square. It was donated to the residents of New Westminster by Aragon Properties Ltd.",
+        "id" : "335",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "Diver Inverse is a developer-initiated public art project by sculptor David Robinson. It depicts a life-size diving figure on a three-sided, 16-foot-tall concrete plinth in Renaissance Square. It was donated to the residents of New Westminster by Aragon Properties Ltd.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Diver Inverse",
+        "X" : "-122.92470029099881",
+        "Y" : "49.19982290052296"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91025118408294, 49.20022226440497 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "the Quay, River Market promenade",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Orca Whale",
+        "Descriptn" : "This colourful orca sculpture was donated to the city after the Vancouver 2010 winter games.",
+        "id" : "336",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "This colourful orca sculpture was donated to the city after the Vancouver 2010 winter games.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Orca Whale",
+        "X" : "-122.91025118408294",
+        "Y" : "49.20022226440497"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91007870433805, 49.20724562285867 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Tipperary Park",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Tipperary Park Cosmic May Pole",
+        "Descriptn" : "In 1980, a 70-foot red cedar Cosmic Maypole was erected in the Friendship Gardens. The carving, done by Georganna Malloff, is to be viewed not frontally, but in the round, depicting a spiral of human social evolution. It incorporates the carving techniques of the Northwest Coast Native Indians and that of the traditional European Maypole.",
+        "id" : "339",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "In 1980, a 70-foot red cedar Cosmic Maypole was erected in the Friendship Gardens.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Tipperary Park Cosmic May Pole",
+        "X" : "-122.91007870433805",
+        "Y" : "49.20724562285867"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.9082228598624, 49.217491058200665 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Centennial Lodge",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Queen's Park Totem Pole",
+        "Descriptn" : "As part of the 1967 Centennial project, residents from each New Westminster, Surrey, Coquitlam and Burnaby carved a totem pole. The head carver of the New Westminster totem pole was Lloyd Wadhams, with help from Bob Whonnock.",
+        "id" : "340",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "As part of the 1967 Centennial project, residents from each New Westminster, Surrey, Coquitlam and Burnaby carved a totem pole.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Queen's Park Totem Pole",
+        "X" : "-122.9082228598624",
+        "Y" : "49.217491058200665"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.92567902261372, 49.21130977319398 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Moody Park",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Moody Park Totem Pole",
+        "Descriptn" : "",
+        "id" : "341",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Moody Park Totem Pole",
+        "X" : "-122.92567902261372",
+        "Y" : "49.21130977319398"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.9244080320234, 49.21117509674946 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Sixth at Eighth",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Rotary Clock",
+        "Descriptn" : "The Rotary Clock sits in the plaza in Moody Park. It was donated in 2006 by the Rotary Club of New Westminster.",
+        "id" : "342",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Rotary Clock sits in the plaza in Moody Park. It was donated in 2006 by the Rotary Club of New Westminster.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Rotary Clock",
+        "X" : "-122.9244080320234",
+        "Y" : "49.21117509674946"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.9398861447706, 49.18931940531167 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Sukh Sagar park",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Bounce Ball",
+        "Descriptn" : "This public art piece, designed by landscape architect Richard Findlay, is installed in Sukh Sagar Park in Queensborough.",
+        "id" : "343",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "This public art piece, designed by landscape architect Richard Findlay, is installed in Sukh Sagar Park in Queensborough.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Bounce Ball",
+        "X" : "-122.9398861447706",
+        "Y" : "49.18931940531167"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.92307775016496, 49.19493197260819 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : "",
+        "Address" : "Port Royal Central Park",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Queensborough Mosaic",
+        "Descriptn" : "The Queensborough mosaic was created by Liz Calvin as part of the Olympic Torch initiative.",
+        "id" : "345",
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "The Queensborough mosaic was created by Liz Calvin as part of the Olympic Torch initiative.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Queensborough Mosaic",
+        "X" : "-122.92307775016496",
+        "Y" : "49.19493197260819"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91124906202916, 49.20099944354455 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : null,
+        "Address" : "Hyack Square",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : null,
+        "fax" : "",
+        "phone" : "",
+        "Name" : "Wait for Me Daddy",
+        "Descriptn" : "The “Wait For Me, Daddy” project was inspired by the historic and iconic photograph taken by Claude Dettloff on October 1, 1940 in New Westminster at Columbia and 8th Streets. The image of a child breaking free of his mother’s hold to reach out to his father marching off to war became one of the enduring images of WWII. The photograph was featured in Life magazine among other notable publications, and is the second-most requested photograph in the National Archives. In 2011, a Mayor’s Task Force was established to develop a public art piece to commemorate this historic photograph.  Artists: Veronica and Edwin Dam de Nogales",
+        "id" : null,
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : null,
+        "summary" : "Commissioned by the City of New Westminster, Wait for me Daddy is a war memorial based on Vancouver Province photographer Claude P. Dettloff’s famous 1940s picture, Wait for Me Daddy.  Artists:  Veronica and Edwin Dam de Nogales",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "Wait for Me Daddy",
+        "X" : "-122.91124906202916",
+        "Y" : "49.20099944354455"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -122.91132325772618, 49.20177496938303 ]
+      },
+      "properties" : {
+        "email" : "",
+        "address2" : null,
+        "Address" : "777 Columbia Street",
+        "city" : "New Westminster",
+        "prov" : "BC",
+        "pcode" : "V3M 1B6",
+        "fax" : "",
+        "phone" : "",
+        "Name" : "New Media Gallery",
+        "Descriptn" : "The New Media Gallery is a non-collecting institution, dedicated to presenting innovative, high quality exhibitions of international, national and regional new media art. Our exhibition programming includes research, documentation and a commitment to the care and quality presentation of a diverse range of exhibition loans. \r\r\n\r\r\nWe will present six exhibitions a year, each 8 weeks long. The New Media Gallery aspires to an international profile. We are proud to present the work of significant established artists, as well as new work by emerging artists. Check back for upcoming exhibitions.\r\r\n\r\r\nWe are located at the top of Anvil Centre's grand staircase in this new, 84,000 square foot Arts & Culture Centre.  \r\r\n\r\r\nWe're easy to visit. We are directly linked to central Vancouver and Surrey by Sky Train: 20 minutes from downtown Vancouver to Anvil Centre doorstep. For those who wish to visit the exhibitions after work, the gallery is open late on Thursday nights, and during special events (check for special event times)",
+        "id" : null,
+        "category" : 6,
+        "company" : null,
+        "website" : "",
+        "social_networks" : "-1",
+        "summary" : "A contemporary, public, art gallery devoted to the exciting presentation of international, national and regional new media art.  Free to all.",
+        "catname" : "Public Art/Monuments",
+        "kml_name" : "New Media Gallery",
+        "X" : "-122.91132325772618",
+        "Y" : "49.20177496938303"
+      }
+    }
+  ]
+}
